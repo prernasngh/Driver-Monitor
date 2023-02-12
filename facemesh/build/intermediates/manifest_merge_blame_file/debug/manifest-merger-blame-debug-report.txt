@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.mediapipe.apps.facemesh"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+8        android:minSdkVersion="21"
+8-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:6:9-35
+9        android:targetSdkVersion="30" />
+9-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:7:9-38
+10    <!-- For loading images from gallery -->
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- For using the camera -->
+11-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:9:5-80
+11-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:9:22-77
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:10:5-65
+12-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:10:22-62
+13    <uses-permission android:name="android.permission.SEND_SMS" />
+13-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:11:5-67
+13-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:11:22-64
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:12:5-81
+14-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:12:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:13:5-79
+15-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:13:22-76
+16
+17    <uses-feature android:name="android.hardware.camera" /> <!-- For logging solution events -->
+17-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:15:5-60
+17-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:15:19-57
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:16:5-67
+18-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:16:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:17:5-79
+19-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:17:22-76
+20
+21    <application
+21-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:19:5-40:19
+22        android:allowBackup="true"
+22-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:20:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:21:9-43
+26        android:label="Driver Monitoring"
+26-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:22:9-42
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:23:9-54
+28        android:supportsRtl="true"
+28-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:24:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:25:9-40
+31        <activity
+31-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:26:9-34:20
+32            android:name="com.google.mediapipe.examples.facemesh.SOSAlert"
+32-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:27:13-37
+33            android:exported="true" >
+33-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:28:13-36
+34            <intent-filter>
+34-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:29:13-33:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:30:17-69
+35-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:30:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:32:17-77
+37-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:35:9-39:20
+41            android:name="com.google.mediapipe.examples.facemesh.MainActivity"
+41-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:36:13-41
+42            android:screenOrientation="portrait" >
+42-->/home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:37:13-49
+43        </activity>
+44        <activity
+44-->[com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+45            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+45-->[com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+46            android:exported="false"
+46-->[com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+47-->[com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+48
+49        <meta-data
+49-->[com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+50            android:name="com.google.android.gms.version"
+50-->[com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+51            android:value="@integer/google_play_services_version" />
+51-->[com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+52
+53        <service
+53-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:29:9-35:19
+54            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+54-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:30:13-103
+55            android:exported="false" >
+55-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:31:13-37
+56            <meta-data
+56-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:32:13-34:39
+57                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+57-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:33:17-94
+58                android:value="cct" />
+58-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:34:17-36
+59        </service>
+60        <service
+60-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:26:9-30:19
+61            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+61-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:27:13-117
+62            android:exported="false"
+62-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:28:13-37
+63            android:permission="android.permission.BIND_JOB_SERVICE" >
+63-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:29:13-69
+64        </service>
+65
+66        <receiver
+66-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:32:9-34:40
+67            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+67-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:33:13-132
+68            android:exported="false" />
+68-->[com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:34:13-37
+69    </application>
+70
+71</manifest>

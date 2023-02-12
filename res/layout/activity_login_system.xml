@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:layout_marginBottom="20dp"
+        app:cardBackgroundColor="#3F51B5" >
+
+        <TextView
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:singleLine="false"
+            android:text="Login Form"
+            android:textAlignment="center"
+            android:textColor="#F8F6F6"
+            android:textColorHint="#E8DEDE" />
+    </androidx.cardview.widget.CardView>
+
+
+    <EditText
+        android:id="@+id/emailAdderass"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:hint="Email Adderess"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:hint="Password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Log In" />
+
+    <Button
+        android:id="@+id/resetPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Reset Password" />
+
+
+    <TextView
+        android:id="@+id/goToSignUpActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SignUp"
+         />
+
+</LinearLayout>

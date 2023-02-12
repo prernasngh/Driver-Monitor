@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/harsh/.gradle/caches/transforms-3/73992349105272a4ee7348aa461d51b5/transformed/play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /home/harsh/.gradle/caches/transforms-3/5d3cc5d02343f25cfa3b1e1c8ba80901/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harsh/.gradle/caches/transforms-3/6421a9ed322fbd0c251d37876f77f078/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harsh/.gradle/caches/transforms-3/4dcd54a32eb493641dc46e96beb5a880/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mediapipe:facemesh:0.9.1] /home/harsh/.gradle/caches/transforms-3/f6e45540e8d320e4b85e94131a66a0ae/transformed/facemesh-0.9.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mediapipe:solution-core:0.9.1] /home/harsh/.gradle/caches/transforms-3/db1874a556c7b546ea45db16f9b8730d/transformed/solution-core-0.9.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/45c81f46bb7dff8d5a5ea7b9aac7b18b/transformed/camera-camera2-1.0.0-beta10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/b595720e3b39d6bb53d38152ba44a57f/transformed/camera-lifecycle-1.0.0-beta10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/7067ceabfd5de9aa09f869cdf0316ff4/transformed/camera-core-1.0.0-beta10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/harsh/.gradle/caches/transforms-3/6e74595a14bea1b0d362cc6907f414c0/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/harsh/.gradle/caches/transforms-3/99cc97aface874fed23d4fdeba04593d/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-3/a4e27b382640bcc5d88fddb10a75f71b/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harsh/.gradle/caches/transforms-3/b70c4d25179a9b8dbdba40eb2c77fe5b/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/harsh/.gradle/caches/transforms-3/acf9c462d86b77abaae300e031d1d667/transformed/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harsh/.gradle/caches/transforms-3/f5c1cb874e9ed875fb16db7ffb63e13e/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-3/3ea06c80d85ec651bd65b5cfcd908be0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-3/9e67a086b4caa78ca35c1770157ada35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harsh/.gradle/caches/transforms-3/17695795d358f7fec6ed957aacd27a6f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-3/f4ba146ebeb17bfe7b3b6d725d7f6c6f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-3/44352a91b827bd122c262b4ce40b81a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-3/f0c1df9fd4fc48efa604756047a9f7e8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-3/4a2ae4b83a7800e5b877c4b0f20a2f3c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-3/d061d54679124e2951e36afa14e93d04/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-3/3506261bcb55a2e19d27ed3d47e3834f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-3/7a86d80bcbbc48527a33b96ca62c3f7f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-3/31c1fa53d22adf8f7647487aace2eb48/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-3/0ce9d7fb046f67f018835faca111f574/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harsh/.gradle/caches/transforms-3/6545c5c767e117fc5421b4c4de458126/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harsh/.gradle/caches/transforms-3/f7ed06e856805ed348a1fd75d1248ac7/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harsh/.gradle/caches/transforms-3/9ce74938516a7ed02de04699e5a7175c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harsh/.gradle/caches/transforms-3/4674cd3ba0ea8e703f9510482af1eb30/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-3/956a269efce774276a01a80a81e453ca/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/harsh/.gradle/caches/transforms-3/caf9f1a4a2db3e06bbf304275ed4c8be/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harsh/.gradle/caches/transforms-3/38361ccbc946898c9640de367e97c6d5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harsh/.gradle/caches/transforms-3/5122125144aa88f3e749da5ee9f783b8/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/harsh/.gradle/caches/transforms-3/cacb31c1fc31aad0f6cbeb6407bcdbfd/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harsh/.gradle/caches/transforms-3/8a771d23ec8acbe5cee18d86aeb50cc3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-3/f91167ccbe746eb28e983b8183ddbaef/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/harsh/.gradle/caches/transforms-3/3014fe4b27ee1faa16817fa94f5a6585/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-3/f8a6793448f9f62604dbd46add158f8b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-3/d4df706b584a7ad4fac963d355dae566/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-3/848d402c1ecd804285b864e4552c281b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-3/d1f799df57b334eaf65f2616ba20b7c7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-3/3d8f2b2beac813196b419da2b396a129/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/harsh/.gradle/caches/transforms-3/73992349105272a4ee7348aa461d51b5/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/harsh/.gradle/caches/transforms-3/73992349105272a4ee7348aa461d51b5/transformed/play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/harsh/.gradle/caches/transforms-3/5d3cc5d02343f25cfa3b1e1c8ba80901/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/harsh/.gradle/caches/transforms-3/5d3cc5d02343f25cfa3b1e1c8ba80901/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harsh/.gradle/caches/transforms-3/6421a9ed322fbd0c251d37876f77f078/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harsh/.gradle/caches/transforms-3/6421a9ed322fbd0c251d37876f77f078/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harsh/.gradle/caches/transforms-3/4dcd54a32eb493641dc46e96beb5a880/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/harsh/.gradle/caches/transforms-3/4dcd54a32eb493641dc46e96beb5a880/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mediapipe:facemesh:0.9.1] /home/harsh/.gradle/caches/transforms-3/f6e45540e8d320e4b85e94131a66a0ae/transformed/facemesh-0.9.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:facemesh:0.9.1] /home/harsh/.gradle/caches/transforms-3/f6e45540e8d320e4b85e94131a66a0ae/transformed/facemesh-0.9.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:solution-core:0.9.1] /home/harsh/.gradle/caches/transforms-3/db1874a556c7b546ea45db16f9b8730d/transformed/solution-core-0.9.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:solution-core:0.9.1] /home/harsh/.gradle/caches/transforms-3/db1874a556c7b546ea45db16f9b8730d/transformed/solution-core-0.9.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/45c81f46bb7dff8d5a5ea7b9aac7b18b/transformed/camera-camera2-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/45c81f46bb7dff8d5a5ea7b9aac7b18b/transformed/camera-camera2-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/b595720e3b39d6bb53d38152ba44a57f/transformed/camera-lifecycle-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/b595720e3b39d6bb53d38152ba44a57f/transformed/camera-lifecycle-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/7067ceabfd5de9aa09f869cdf0316ff4/transformed/camera-core-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta10] /home/harsh/.gradle/caches/transforms-3/7067ceabfd5de9aa09f869cdf0316ff4/transformed/camera-core-1.0.0-beta10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/harsh/.gradle/caches/transforms-3/6e74595a14bea1b0d362cc6907f414c0/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/harsh/.gradle/caches/transforms-3/6e74595a14bea1b0d362cc6907f414c0/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/harsh/.gradle/caches/transforms-3/99cc97aface874fed23d4fdeba04593d/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/harsh/.gradle/caches/transforms-3/99cc97aface874fed23d4fdeba04593d/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-3/a4e27b382640bcc5d88fddb10a75f71b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harsh/.gradle/caches/transforms-3/a4e27b382640bcc5d88fddb10a75f71b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harsh/.gradle/caches/transforms-3/b70c4d25179a9b8dbdba40eb2c77fe5b/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/harsh/.gradle/caches/transforms-3/b70c4d25179a9b8dbdba40eb2c77fe5b/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/harsh/.gradle/caches/transforms-3/acf9c462d86b77abaae300e031d1d667/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/harsh/.gradle/caches/transforms-3/acf9c462d86b77abaae300e031d1d667/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harsh/.gradle/caches/transforms-3/f5c1cb874e9ed875fb16db7ffb63e13e/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/harsh/.gradle/caches/transforms-3/f5c1cb874e9ed875fb16db7ffb63e13e/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-3/3ea06c80d85ec651bd65b5cfcd908be0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/harsh/.gradle/caches/transforms-3/3ea06c80d85ec651bd65b5cfcd908be0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-3/9e67a086b4caa78ca35c1770157ada35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harsh/.gradle/caches/transforms-3/9e67a086b4caa78ca35c1770157ada35/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harsh/.gradle/caches/transforms-3/17695795d358f7fec6ed957aacd27a6f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harsh/.gradle/caches/transforms-3/17695795d358f7fec6ed957aacd27a6f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-3/f4ba146ebeb17bfe7b3b6d725d7f6c6f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/harsh/.gradle/caches/transforms-3/f4ba146ebeb17bfe7b3b6d725d7f6c6f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-3/44352a91b827bd122c262b4ce40b81a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harsh/.gradle/caches/transforms-3/44352a91b827bd122c262b4ce40b81a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-3/f0c1df9fd4fc48efa604756047a9f7e8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harsh/.gradle/caches/transforms-3/f0c1df9fd4fc48efa604756047a9f7e8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-3/4a2ae4b83a7800e5b877c4b0f20a2f3c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harsh/.gradle/caches/transforms-3/4a2ae4b83a7800e5b877c4b0f20a2f3c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-3/d061d54679124e2951e36afa14e93d04/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harsh/.gradle/caches/transforms-3/d061d54679124e2951e36afa14e93d04/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-3/3506261bcb55a2e19d27ed3d47e3834f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harsh/.gradle/caches/transforms-3/3506261bcb55a2e19d27ed3d47e3834f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-3/7a86d80bcbbc48527a33b96ca62c3f7f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/harsh/.gradle/caches/transforms-3/7a86d80bcbbc48527a33b96ca62c3f7f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-3/31c1fa53d22adf8f7647487aace2eb48/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/harsh/.gradle/caches/transforms-3/31c1fa53d22adf8f7647487aace2eb48/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-3/0ce9d7fb046f67f018835faca111f574/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harsh/.gradle/caches/transforms-3/0ce9d7fb046f67f018835faca111f574/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harsh/.gradle/caches/transforms-3/6545c5c767e117fc5421b4c4de458126/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harsh/.gradle/caches/transforms-3/6545c5c767e117fc5421b4c4de458126/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harsh/.gradle/caches/transforms-3/f7ed06e856805ed348a1fd75d1248ac7/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harsh/.gradle/caches/transforms-3/f7ed06e856805ed348a1fd75d1248ac7/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harsh/.gradle/caches/transforms-3/9ce74938516a7ed02de04699e5a7175c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/harsh/.gradle/caches/transforms-3/9ce74938516a7ed02de04699e5a7175c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harsh/.gradle/caches/transforms-3/4674cd3ba0ea8e703f9510482af1eb30/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/harsh/.gradle/caches/transforms-3/4674cd3ba0ea8e703f9510482af1eb30/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-3/956a269efce774276a01a80a81e453ca/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harsh/.gradle/caches/transforms-3/956a269efce774276a01a80a81e453ca/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/harsh/.gradle/caches/transforms-3/caf9f1a4a2db3e06bbf304275ed4c8be/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/harsh/.gradle/caches/transforms-3/caf9f1a4a2db3e06bbf304275ed4c8be/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harsh/.gradle/caches/transforms-3/38361ccbc946898c9640de367e97c6d5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harsh/.gradle/caches/transforms-3/38361ccbc946898c9640de367e97c6d5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harsh/.gradle/caches/transforms-3/5122125144aa88f3e749da5ee9f783b8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harsh/.gradle/caches/transforms-3/5122125144aa88f3e749da5ee9f783b8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/harsh/.gradle/caches/transforms-3/cacb31c1fc31aad0f6cbeb6407bcdbfd/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/harsh/.gradle/caches/transforms-3/cacb31c1fc31aad0f6cbeb6407bcdbfd/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harsh/.gradle/caches/transforms-3/8a771d23ec8acbe5cee18d86aeb50cc3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/harsh/.gradle/caches/transforms-3/8a771d23ec8acbe5cee18d86aeb50cc3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-3/f91167ccbe746eb28e983b8183ddbaef/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harsh/.gradle/caches/transforms-3/f91167ccbe746eb28e983b8183ddbaef/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/harsh/.gradle/caches/transforms-3/3014fe4b27ee1faa16817fa94f5a6585/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/harsh/.gradle/caches/transforms-3/3014fe4b27ee1faa16817fa94f5a6585/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-3/f8a6793448f9f62604dbd46add158f8b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harsh/.gradle/caches/transforms-3/f8a6793448f9f62604dbd46add158f8b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-3/d4df706b584a7ad4fac963d355dae566/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harsh/.gradle/caches/transforms-3/d4df706b584a7ad4fac963d355dae566/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-3/848d402c1ecd804285b864e4552c281b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/harsh/.gradle/caches/transforms-3/848d402c1ecd804285b864e4552c281b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-3/d1f799df57b334eaf65f2616ba20b7c7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harsh/.gradle/caches/transforms-3/d1f799df57b334eaf65f2616ba20b7c7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-3/3d8f2b2beac813196b419da2b396a129/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/harsh/.gradle/caches/transforms-3/3d8f2b2beac813196b419da2b396a129/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+		INJECTED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.camera
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:15:19-57
+uses-permission#android.permission.INTERNET
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:17:22-76
+application
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:19:5-40:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/harsh/.gradle/caches/transforms-3/73992349105272a4ee7348aa461d51b5/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/harsh/.gradle/caches/transforms-3/73992349105272a4ee7348aa461d51b5/transformed/play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/harsh/.gradle/caches/transforms-3/5d3cc5d02343f25cfa3b1e1c8ba80901/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/harsh/.gradle/caches/transforms-3/5d3cc5d02343f25cfa3b1e1c8ba80901/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harsh/.gradle/caches/transforms-3/6421a9ed322fbd0c251d37876f77f078/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/harsh/.gradle/caches/transforms-3/6421a9ed322fbd0c251d37876f77f078/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/harsh/.gradle/caches/transforms-3/99cc97aface874fed23d4fdeba04593d/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/harsh/.gradle/caches/transforms-3/99cc97aface874fed23d4fdeba04593d/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harsh/.gradle/caches/transforms-3/38361ccbc946898c9640de367e97c6d5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harsh/.gradle/caches/transforms-3/38361ccbc946898c9640de367e97c6d5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/harsh/.gradle/caches/transforms-3/24679a06fe8e8bcd95e9549809f5114f/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:22:9-42
+	android:roundIcon
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:25:9-40
+activity#com.google.mediapipe.examples.facemesh.SOSAlert
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:27:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:32:27-74
+activity#com.google.mediapipe.examples.facemesh.MainActivity
+ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /home/harsh/solutions/facemesh/src/main/AndroidManifest.xml:36:13-41
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/harsh/.gradle/caches/transforms-3/85f38319585a7f29bfcac7688b6d208b/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/harsh/.gradle/caches/transforms-3/addce913767adf50ba547412a0ccd6a4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/harsh/.gradle/caches/transforms-3/0ce55962650003de80be768d03eeca0f/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/harsh/.gradle/caches/transforms-3/c1669e74a9403679e45851d228ad1dd5/transformed/transport-runtime-3.1.0/AndroidManifest.xml:33:13-132

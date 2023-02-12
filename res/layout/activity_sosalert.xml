@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:layout_marginBottom="20dp"
+        app:cardBackgroundColor="#3F51B5" >
+
+        <TextView
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:singleLine="false"
+            android:text="Sign UP Form"
+            android:textAlignment="center"
+            android:textColor="#F8F6F6"
+            android:textColorHint="#E8DEDE" />
+
+    </androidx.cardview.widget.CardView>
+
+    <EditText
+        android:id="@+id/fullName"
+        android:padding="10dp"
+        android:hint="Full Name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <EditText
+        android:id="@+id/phoneNumber"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:hint="Mobile Number"
+        android:maxLength="11"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <EditText
+        android:id="@+id/friendNumber2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:hint="Friend Mobile Number"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/friendNumber"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:hint="Alternate Friend Mobile Number"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <EditText
+        android:id="@+id/emailAddresss"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:hint="Email Adderess"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <EditText
+        android:id="@+id/emailAddresss2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:hint="Working"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/friendNumber3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:hint="DOB"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/signUp"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:hint="Password"
+        android:text="Sign Up" />
+</LinearLayout>
